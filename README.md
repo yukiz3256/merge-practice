@@ -2,6 +2,6 @@
 
 i 
 am 
-yuki
+a girl 
 
 
