@@ -1,6 +1,6 @@
 # merge-practice
 
-i 
+I
 am 
 a girl 
 
