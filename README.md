@@ -1,7 +1,7 @@
 # merge-practice
 
 i 
-was
+am 
 yuki
 
 
