@@ -1,4 +1,4 @@
 # merge-practice
-i 
-am 
+i
+was
 cool
